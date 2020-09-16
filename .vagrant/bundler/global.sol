@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-winnfsd",["= 1.4.0"]]],"checksum":"c8bbfa0015b94cc078b6bb3e58e977f44eba9dd32ab4a84f114ba637960a9a07","vagrant_version":"2.2.9"}
