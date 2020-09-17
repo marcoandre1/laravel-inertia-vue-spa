@@ -8,7 +8,7 @@ Laravel-inertia-vue-spa is an application built to understand [Inertia](https://
 
 ## Usage
 
-Simply clone this repo and run `composer install` to install all the required dependencies. Make sure to rename the `.env.example` file to `.env` and also run `php artisan key:generate` to generate an application key for this Laravel API.
+Simply clone this repo and run `composer install` to install all the required dependencies. Make sure to rename the `.env.example` file to `.env` and also run `php artisan key:generate` to generate an application key for this Laravel API. Finally, run `php vendor/bin/homestead make` on **Mac / Linux** or `vendor\\bin\\homestead make` on **Windows** to generate the `Vagrantfile` and the `Homestead.yaml`. Run the `vagrant up` command in your terminal and access your project at `http://homestead.test` in your browser.
 
 ## License
 
